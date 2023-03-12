@@ -59,7 +59,7 @@ function showSymbolLimit() {
 }
 
 function showNothingFound() {
-  let out = "Nothing found &#128532;";
+  let out = "Nothing was found &#128532;";
   resultField.innerHTML = out;
 }
 
