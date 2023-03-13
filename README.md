@@ -1,7 +1,7 @@
 Ссылка на страницу:
 https://lafeen-html.github.io/GitHub-search/
 
-ТЗ:
+ТЗ
 
 Написать блок с поиском репозиториев github по подстроке.
 
